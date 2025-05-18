@@ -4,7 +4,7 @@ function Footer() {
       <div className="container text-center">
         <div className="row">
           <div className="col-md-12">
-            <p className="mb-0">© {new Date().getFullYear()} Your Name. All rights reserved.</p>
+            <p className="mb-0">© {new Date().getFullYear()} Khadija Ali . All rights reserved.</p>
             <p className="small">Designed with <i className="bi bi-heart-fill text-danger"></i> using React & Bootstrap</p>
           </div>
         </div>

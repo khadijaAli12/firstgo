@@ -19,9 +19,9 @@ function About() {
           </div>
           
           <div className="col-lg-8 pt-4 pt-lg-0">
-            <h3>Professional Title</h3>
+            <h3>Software Engineer | Builder of Scalable Web Solutions</h3>
             <p className="fst-italic">
-              Brief tagline or summary about yourself.
+              Turning Complexity into Elegant Simplicity
             </p>
             <div className="row">
               <div className="col-lg-6">
@@ -41,7 +41,9 @@ function About() {
               </div>
             </div>
             <p>
-        I'm passionate about technology and solving complex problems to create meaningful solutions. My career goal is to continuously grow and contribute to projects that have a positive impact. I approach work with a focus on clear communication, collaboration, and delivering high-quality results. What sets me apart is my ability to combine creativity with technical expertise
+            Full-Stack Developer with a strong focus on Ruby on Rails and modern web technologies.
+Skilled in building scalable apps using Rails, React, and PostgreSQL.
+Passionate about clean code, rapid prototyping, and delivering real-world impact.
             </p>
           </div>
         </div>

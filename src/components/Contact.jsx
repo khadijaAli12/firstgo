@@ -56,7 +56,7 @@ function Contact() {
                   </div>
                   <div className="ms-3">
                     <h5>Location</h5>
-                    <p className="mb-0">123 Street, City, Country</p>
+                    <p className="mb-0">Girls Hostel Univerity Of Punjab</p>
                   </div>
                 </div>
                 
@@ -66,7 +66,7 @@ function Contact() {
                   </div>
                   <div className="ms-3">
                     <h5>Email</h5>
-                    <p className="mb-0">email@example.com</p>
+                    <p className="mb-0">khadijaali5858@gmail.com</p>
                   </div>
                 </div>
                 
@@ -76,24 +76,18 @@ function Contact() {
                   </div>
                   <div className="ms-3">
                     <h5>Phone</h5>
-                    <p className="mb-0">+123 456 7890</p>
+                    <p className="mb-0">+92 3274320793</p>
                   </div>
                 </div>
                 
                 <div className="mt-4">
                   <h5>Follow Me</h5>
                   <div className="d-flex gap-2 mt-3">
-                    <a href="#" className="btn btn-outline-dark btn-sm rounded-circle">
+                    <a href="https://www.linkedin.com/in/khadija-ali-6a431b269/" className="btn btn-outline-dark btn-sm rounded-circle">
                       <i className="bi bi-linkedin"></i>
                     </a>
-                    <a href="#" className="btn btn-outline-dark btn-sm rounded-circle">
+                    <a href="https://github.com/khadijaAli12" className="btn btn-outline-dark btn-sm rounded-circle">
                       <i className="bi bi-github"></i>
-                    </a>
-                    <a href="#" className="btn btn-outline-dark btn-sm rounded-circle">
-                      <i className="bi bi-twitter"></i>
-                    </a>
-                    <a href="#" className="btn btn-outline-dark btn-sm rounded-circle">
-                      <i className="bi bi-facebook"></i>
                     </a>
                   </div>
                 </div>
